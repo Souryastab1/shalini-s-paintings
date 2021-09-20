@@ -37,9 +37,9 @@
 {
     
     
-    background: url("/WhatsApp\ Image\ 2021-09-17\ at\ 8.07.19\ PM.jpeg"); 
-    /*background-blend-mode:hard-light;*/
-    background-size: cover;
+    background-image: white url("/WhatsApp\ Image\ 2021-09-17\ at\ 8.07.19\ PM.jpeg"); 
+    background-blend-mode:hard-light;
+    background-size: 100vw;
     text-align: center;
 }
 
