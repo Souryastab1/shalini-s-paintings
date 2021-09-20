@@ -38,7 +38,7 @@
     
     
     background: rgb(238, 237, 234) url("/WhatsApp\ Image\ 2021-09-17\ at\ 8.07.19\ PM.jpeg"); 
-    background-blend-mode:overlay;
+    background-blend-mode:hard-light;
     background-size: cover;
     text-align: center;
 }
