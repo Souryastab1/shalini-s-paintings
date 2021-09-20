@@ -1,0 +1,136 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.navbar
+{
+    text-align: center; 
+    justify-content: center;
+    border-radius: 8%;
+    background-color: rgb(238, 48, 245);
+}
+.navlist{
+    align-items: center;
+    position: relative;
+    right: 20%;
+    display: flex;
+    text-align: center;
+    padding: 0% !important;
+}
+.navlist li {
+    list-style: none;
+    padding: 0 20%;
+}
+.navbar li a:hover
+{
+    color: rgb(245, 227, 245);
+}
+.navlist li a{
+    text-decoration: none;
+    color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 3vw;
+}
+.picbody
+{
+    
+    
+    background: rgb(238, 237, 234) url("/WhatsApp\ Image\ 2021-09-17\ at\ 8.07.19\ PM.jpeg"); 
+    background-blend-mode:overlay;
+    background-size: cover;
+    text-align: center;
+}
+
+.shalini
+{
+    height: 25vw;
+    border-radius: 40%;
+    margin-bottom: 20%;
+}
+.shalini2
+{
+    padding-left:  30%;
+    padding-top: 30%;
+    padding-bottom: 30%;
+    padding-right: 30%;
+}
+.txt
+{
+    font-size: 1.8rem;
+    font-weight: bold;
+    border: black;
+    padding-bottom: 20%;
+    
+    color: rgb(233, 49, 178);
+}
+.txt2
+{
+    font-size: 4vw;
+    font-weight: bold;
+    border: black;
+    padding-bottom: 20%;
+    
+    color: rgb(233, 49, 178);
+}
+
+.p{
+    padding-bottom: 10% !important;
+}
+
+.srtist
+{
+    background-color:rgba(243, 221, 240, 0.808);
+    padding-top: 6rem;
+    text-align: center;
+}
+.carousel
+{
+    width: 70%;
+    position: relative;
+    left: 5rem ;
+    padding-bottom: 10%;
+}
+.textt
+{
+    padding-bottom: 10%;
+    font-weight: bold;
+    color: rgb(85, 7, 43);
+}
+.promo
+{
+    text-align: center;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    background-color: rgb(236, 60, 60);
+}
+.t
+{
+    font-weight: bold;
+}
+.tttt
+{
+    padding-bottom: 4%;
+    font-weight: bold;
+}
+
+.ii
+{
+    margin-left: 4rem !important;
+}
+.dc
+{
+    font-weight: bold;
+}
+.lg
+{
+    height: 2rem;
+    padding-right: .5rem;
+    font-weight: bold;
+}
+.btnnn:hover
+{
+    background-color: black;
+    color: blanchedalmond;
+}
